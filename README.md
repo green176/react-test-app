@@ -1,3 +1,5 @@
+Test React app with no CRA used modified data from https://randomuser.me/
+
 ## Preconditions
 
 Run `yarn` or `npm install` for getting project dependencies
